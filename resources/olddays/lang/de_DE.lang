@@ -172,7 +172,7 @@ bugs.craftingslots.name=Crafting-Feld-Fehler
 bugs.invwalking.name=Inventar-Laufen
  bugs.invwalking.desc1=Ermöglicht es mit geöffnetem
  bugs.invwalking.desc2=Inventar zu laufen.
- bugs.invwalking.desc3=§aIn der Alpha geändert.
+ bugs.invwalking.desc3=§aIn Beta 1.8 behoben.
 
 gameplay.enablexp.name=Erfahrung
  gameplay.enablexp.desc1=Wenn deaktiviert, entfernt es Erfahrungsbällchen und die
@@ -453,7 +453,7 @@ eyecandy.mainmenu.name=Hauptmenü
 eyecandy.olddigging.name=Alte Grab-Partikel
  eyecandy.olddigging.desc1=Macht dass beim Graben die Seiten-Textur
  eyecandy.olddigging.desc2=anstatt der unteren verwendet wird.
- eyecandy.olddigging.desc3=§aIrgendwann in der Beta geändert.
+ eyecandy.olddigging.desc3=§aIn Beta 1.7.3 geändert.
 //FIXME
 eyecandy.oldwires.name=Redstone wire
  eyecandy.oldwires1=Alpha
@@ -787,6 +787,7 @@ textures.dispenser.name=Alter Dispenser
  textures.dispenser.desc2=§aIn der 1.2 geändert.
 textures.web.name=Altes Spinnennetz
  textures.web.desc1=Total weiße Textur.
+ textures.web.desc2=§aIn Beta 1.5 geändert.
 textures.porkchop.name=Altes Schweinefleisch
  textures.porkchop.desc1=Sieht aus wie Beef.
  textures.porkchop.desc2=§aIn der Beta 1.8 geändert.

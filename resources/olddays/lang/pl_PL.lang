@@ -169,7 +169,7 @@ bugs.craftingslots.name=Błąd z polem craftingu
 bugs.invwalking.name=Chodzenie z ekwipunkiem
  bugs.invwalking.desc1=Pozwala na chodzenie z otwartym
  bugs.invwalking.desc2=ekwipunkiem w Survivalu.
- bugs.invwalking.desc3=§aNaprawione w Alphie.
+ bugs.invwalking.desc3=§aNaprawiono w wersji beta 1.8.
 
 gameplay.enablexp.name=Doświadczenie
  gameplay.enablexp.desc1=Jeśli wyłączone, usuwa kule i
@@ -443,7 +443,7 @@ eyecandy.mainmenu.name=Menu główne
 eyecandy.olddigging.name=Stare cząsteczki kopania
  eyecandy.olddigging.desc1=Powoduje, że pojawiają się cząsteczki
  eyecandy.olddigging.desc2=bocznej tekstury zamiast dolnej.
- eyecandy.olddigging.desc3=§aZmienione w Becie.
+ eyecandy.olddigging.desc3=§aZmieniono w wersji beta 1.7.3.
 //FIXME
 eyecandy.oldwires.name=Redstone wire
  eyecandy.oldwires1=Alpha
@@ -766,6 +766,7 @@ textures.dispenser.name=Stary dozownik
  textures.dispenser.desc2=§aZmienione w 1.2.
 textures.web.name=Stara pajęczyna
  textures.web.desc1=Zupełnie biała tekstura.
+ textures.web.desc2=§aZmieniono w wersji beta 1.5.
 textures.porkchop.name=Stary pieczony schab
  textures.porkchop.desc1=Wygląda jak pieczony befsztyk.
  textures.porkchop.desc2=§aZmienione w Becie 1.8.

@@ -168,7 +168,7 @@ bugs.craftingslots.name=Bug del cuadro de crafteo
 bugs.invwalking.name=Caminar con inventario
  bugs.invwalking.desc1=Permite caminar con el inventario
  bugs.invwalking.desc2=de supervivencia abierto.
- bugs.invwalking.desc3=§aArreglado en Alpha.
+ bugs.invwalking.desc3=§aSolucionado en Beta 1.8.
 
 gameplay.enablexp.name=Experiencia
  gameplay.enablexp.desc1=Cuando es activado, remueve la
@@ -445,7 +445,7 @@ eyecandy.olddigging.name=Antiguas trizas de bloques
  eyecandy.olddigging.desc1=Hace a los bloques usar la textura
  eyecandy.olddigging.desc2=de los lados en vez de la parte de
  eyecandy.olddigging.desc3=abajo en las partículas.
- eyecandy.olddigging.desc4=§aCambiado en alguna Beta.
+ eyecandy.olddigging.desc4=§aCambiado en Beta 1.7.3.
 //FIXME
 eyecandy.oldwires.name=Redstone wire
  eyecandy.oldwires1=Alpha
@@ -765,6 +765,7 @@ textures.dispenser.name=Dispensadores antiguos
  textures.dispenser.desc2=§aCambiado en 1.2.
 textures.web.name=Telaraña antigua
  textures.web.desc1=Blanco como único color.
+ textures.web.desc2=§aCambiado en Beta 1.5.
 textures.porkchop.name=Antiguo cerdo cocinado
  textures.porkchop.desc1=Parece como filete.
  textures.porkchop.desc2=§aCambiado en Beta 1.8.

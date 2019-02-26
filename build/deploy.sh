@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WEURL="http://dev.bukkit.org/media/files/715/447/worldedit-5.5.7.jar"
+WEURL="https://addons-origin.cursecdn.com/files/739/931/worldedit-5.5.8.jar"
 MODDIR="src-mods"
 SRCDIR="src/minecraft/net/minecraft"
 CC="$MODDIR/src/client-client"
